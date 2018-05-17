@@ -12,24 +12,116 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Program.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Program.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="408">
+              <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
               <folding>
-                <element signature="e#70#71#0" expanded="true" />
-                <element signature="e#94#95#0" expanded="true" />
+                <element signature="method#lab4_partea1_1#0;class#Program#0" />
+                <element signature="method#lab4_pensionar#0;class#Program#0" />
+                <element signature="method#lab4_sex#0;class#Program#0" />
+                <element signature="method#lab4_partea1_2#0;class#Program#0" />
+                <element signature="method#lab4_partea1_3_bursa#0;class#Program#0" />
+                <element signature="method#lab4_partea1_3_medie#0;class#Program#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Om.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Angajat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models/Angajat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#787#788#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1004#1005#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="27" />
+              <folding>
+                <element signature="e#1157#1158#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1556#1557#0" expanded="true" />
+                <element signature="e#1593#1594#0" expanded="true" />
+                <element signature="e#1653#1654#0" expanded="true" />
+                <element signature="e#1705#1706#0" expanded="true" />
+                <element signature="e#1741#1742#0" expanded="true" />
+                <element signature="e#1773#1774#0" expanded="true" />
+                <element signature="e#1823#1824#0" expanded="true" />
+                <element signature="e#1865#1866#0" expanded="true" />
+                <element signature="e#1899#1900#0" expanded="true" />
+                <element signature="e#1929#1930#0" expanded="true" />
+                <element signature="e#1975#1976#0" expanded="true" />
+                <element signature="e#2013#2014#0" expanded="true" />
+                <element signature="e#2046#2047#0" expanded="true" />
+                <element signature="e#2075#2076#0" expanded="true" />
+                <element signature="e#2119#2120#0" expanded="true" />
+                <element signature="e#2155#2156#0" expanded="true" />
+                <element signature="e#2188#2189#0" expanded="true" />
+                <element signature="e#2217#2218#0" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+                <element signature="e#2297#2298#0" expanded="true" />
+                <element signature="e#2330#2331#0" expanded="true" />
+                <element signature="e#2359#2360#0" expanded="true" />
+                <element signature="e#2403#2404#0" expanded="true" />
+                <element signature="e#2439#2440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bursa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models/Bursa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StareCivila.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/models/StareCivila.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Om.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/models/Om.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
               <folding>
                 <element signature="e#102#103#0" expanded="true" />
                 <element signature="e#129#130#0" expanded="true" />
@@ -41,8 +133,8 @@
                 <element signature="e#443#444#0" expanded="true" />
                 <element signature="e#478#479#0" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
                 <element signature="e#621#622#0" expanded="true" />
                 <element signature="e#648#649#0" expanded="true" />
                 <element signature="e#685#686#0" expanded="true" />
@@ -60,7 +152,7 @@
         <entry file="file://$PROJECT_DIR$/src/models/Sex.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -70,17 +162,30 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System\.out\.println\(String\.format\(\&quot;Este \%s pensionar\?\&quot;\, omulet\.get_nume\(\)\)\)\;\n        System\.out\.println\(omulet\.estePensionar\(\) \? \&quot;Da\&quot; \: \&quot;Nu\&quot;\)\;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/program.java" />
-        <option value="$PROJECT_DIR$/src/Program.java" />
         <option value="$PROJECT_DIR$/src/models/Sex.java" />
+        <option value="$PROJECT_DIR$/src/models/StareCivila.java" />
+        <option value="$PROJECT_DIR$/src/models/Bursa.java" />
+        <option value="$PROJECT_DIR$/src/models/Student.java" />
         <option value="$PROJECT_DIR$/src/models/Om.java" />
+        <option value="$PROJECT_DIR$/src/models/Angajat.java" />
+        <option value="$PROJECT_DIR$/src/Program.java" />
       </list>
     </option>
   </component>
@@ -120,6 +225,10 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,15 +279,15 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32912722" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33016878" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -189,29 +298,83 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Program.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#94#95#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/models/Sex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/k.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/StareCivila.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Bursa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="61" column="27" lean-forward="true" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="27" />
+          <folding>
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+            <element signature="e#1705#1706#0" expanded="true" />
+            <element signature="e#1741#1742#0" expanded="true" />
+            <element signature="e#1773#1774#0" expanded="true" />
+            <element signature="e#1823#1824#0" expanded="true" />
+            <element signature="e#1865#1866#0" expanded="true" />
+            <element signature="e#1899#1900#0" expanded="true" />
+            <element signature="e#1929#1930#0" expanded="true" />
+            <element signature="e#1975#1976#0" expanded="true" />
+            <element signature="e#2013#2014#0" expanded="true" />
+            <element signature="e#2046#2047#0" expanded="true" />
+            <element signature="e#2075#2076#0" expanded="true" />
+            <element signature="e#2119#2120#0" expanded="true" />
+            <element signature="e#2155#2156#0" expanded="true" />
+            <element signature="e#2188#2189#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2297#2298#0" expanded="true" />
+            <element signature="e#2330#2331#0" expanded="true" />
+            <element signature="e#2359#2360#0" expanded="true" />
+            <element signature="e#2403#2404#0" expanded="true" />
+            <element signature="e#2439#2440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/models/Om.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="330">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
           <folding>
             <element signature="e#102#103#0" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
@@ -223,8 +386,8 @@
             <element signature="e#443#444#0" expanded="true" />
             <element signature="e#478#479#0" expanded="true" />
             <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
             <element signature="e#621#622#0" expanded="true" />
             <element signature="e#648#649#0" expanded="true" />
             <element signature="e#685#686#0" expanded="true" />
@@ -233,6 +396,52 @@
             <element signature="e#791#792#0" expanded="true" />
             <element signature="e#847#848#0" expanded="true" />
             <element signature="e#895#896#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/models/Angajat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="method#lab4_partea1_1#0;class#Program#0" />
+            <element signature="method#lab4_pensionar#0;class#Program#0" />
+            <element signature="method#lab4_sex#0;class#Program#0" />
+            <element signature="method#lab4_partea1_2#0;class#Program#0" />
+            <element signature="method#lab4_partea1_3_bursa#0;class#Program#0" />
+            <element signature="method#lab4_partea1_3_medie#0;class#Program#0" />
           </folding>
         </state>
       </provider>
